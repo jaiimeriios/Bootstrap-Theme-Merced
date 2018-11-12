@@ -39,3 +39,5 @@ I use [GitHub](https://github.com/jaiimeriios/Bootstrap-Theme-Merced) for versio
 ## Version
 
 1.0
+
+![Image of Merced Them](https://raw.githubusercontent.com/jaiimeriios/Bootstrap-Theme-Merced/master/images/home.png)
