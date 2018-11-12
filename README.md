@@ -11,18 +11,25 @@ If you like the template, please spread the word.
 
 * [Live Demo](http://jaiimeriios.com/portfolio/merced-demo/index.html)
 
-
 ## Built With
+
+### Credits
 
 * [GitHub](https://github.com/)
 * [GitHub Desktop](https://desktop.github.com/)
+
+### Resources
+
 * [Bootstap](https://getbootstrap.com)
 * [jQuery](https://jquery.com)
 * [Modernizr](https://modernizr.com)
+
+### Fonts
+
 * [Font Awesome](https://fontawesome.com)
 * [Google Fonts](https://fontawesome.com)
 
-## Demo Images
+### Demo Images
 
 The pictures are from a trip I took to Yosemite National Park.
 
