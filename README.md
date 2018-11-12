@@ -36,7 +36,7 @@ The pictures are from a trip I took to Yosemite National Park.
 
 ## Versioning
 
-I use [GitHub](https://github.com/jaiimeriios/Bootstrap-Theme-Merced) for versioning.
+I use [GitHub](https://github.com/jaiimeriios/Bootstrap-Theme-Merced) for versioning
 
 ## Authors
 
