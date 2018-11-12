@@ -13,10 +13,14 @@ If you like the template, please spread the word.
 
 ## Built With
 
-### Credits
+### Demo Images
 
-* [GitHub](https://github.com/)
-* [GitHub Desktop](https://desktop.github.com/)
+The pictures are from a trip I took to Yosemite National Park.
+
+### Fonts
+
+* [Font Awesome](https://fontawesome.com)
+* [Google Fonts](https://fontawesome.com)
 
 ### Resources
 
@@ -24,14 +28,11 @@ If you like the template, please spread the word.
 * [jQuery](https://jquery.com)
 * [Modernizr](https://modernizr.com)
 
-### Fonts
+### Credits
 
-* [Font Awesome](https://fontawesome.com)
-* [Google Fonts](https://fontawesome.com)
+* [GitHub](https://github.com/)
+* [GitHub Desktop](https://desktop.github.com/)
 
-### Demo Images
-
-The pictures are from a trip I took to Yosemite National Park.
 
 ## Versioning
 
@@ -47,5 +48,5 @@ I use [GitHub](https://github.com/jaiimeriios/Bootstrap-Theme-Merced) for versio
 
 1.0
 
-##
+#### MERCED
 ![Image of Merced Theme](https://raw.githubusercontent.com/jaiimeriios/Bootstrap-Theme-Merced/master/images/home.png)
