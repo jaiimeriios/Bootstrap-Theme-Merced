@@ -9,7 +9,7 @@ If you like the template, please spread the word.
 
 ## View Live Demo
 
-* [Live Demo](http://jaiimeriios.com)
+* [Live Demo](http://jaiimeriios.com/portfolio/merced-demo/index.html)
 
 
 ## Built With
@@ -40,4 +40,5 @@ I use [GitHub](https://github.com/jaiimeriios/Bootstrap-Theme-Merced) for versio
 
 1.0
 
-![Image of Merced Them](https://raw.githubusercontent.com/jaiimeriios/Bootstrap-Theme-Merced/master/images/home.png)
+##
+![Image of Merced Theme](https://raw.githubusercontent.com/jaiimeriios/Bootstrap-Theme-Merced/master/images/home.png)
