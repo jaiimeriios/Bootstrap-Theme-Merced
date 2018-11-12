@@ -1,6 +1,6 @@
 # Merced Bootstrap Theme
 
-Merced is a one page multiuse template based on Bootstrap 3 Framework.
+Merced is a one page multiuse template based on the Bootstrap 3 Framework.
 
 You can use it for whatever you want.
 
