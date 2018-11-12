@@ -1,7 +1,5 @@
 # Merced Bootstrap Theme
 
-Merced free bootstrap template
-
 Merced is a one page multiuse template based on Bootstrap 3 Framework.
 
 You can use it for whatever you want.
@@ -11,7 +9,7 @@ If you like the template, please spread the word.
 
 ## View Live Demo
 
-* [Live Demo](http://jaiimeriios.com).
+* [Live Demo](http://jaiimeriios.com)
 
 
 ## Built With
