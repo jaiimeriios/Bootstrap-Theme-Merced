@@ -44,9 +44,13 @@ I use [GitHub](https://github.com/jaiimeriios/Bootstrap-Theme-Merced) for versio
 
 * **Jaime Alejandro Rios** - *Website* - [jaiimeriios.com](http://jaiimeriios.com)
 
-## Version
+### Theme Version
 
 1.0
+
+### Release Date
+
+July 2016
 
 #### MERCED
 ![Image of Merced Theme](https://raw.githubusercontent.com/jaiimeriios/Bootstrap-Theme-Merced/master/images/home.png)
