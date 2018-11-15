@@ -53,4 +53,9 @@ I use [GitHub](https://github.com/jaiimeriios/Bootstrap-Theme-Merced) for versio
 July 2016
 
 #### MERCED
+
+Merced is a free Bootstrap startup website template that gives your project a boost. This template is designed if you are just about to launch a website but have not executed it yet, speed things up with an professional and elegant premium template but does not cost you a single penny. It is just a click away, and you can begin using it.
+
+Key features of Merced Bootstrap startup template are responsiveness and retina readiness. The page skin is also cross-browser compatible and loads fast for top-notch performance and enhanced user experience.
+
 ![Image of Merced Theme](https://raw.githubusercontent.com/jaiimeriios/Bootstrap-Theme-Merced/master/images/home.png)
